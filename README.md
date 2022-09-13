@@ -7,5 +7,5 @@
 *****
 
 <img src="https://user-images.githubusercontent.com/112042668/189811291-48b52b9f-abc0-4ba8-a1d5-d3769ff5ae96.JPG" width="200" height="200" />
-![2](https://user-images.githubusercontent.com/112042668/189812554-b10386b5-2d82-4f8c-bafa-23604959af4b.JPG)
+<img src="https://user-images.githubusercontent.com/112042668/189812554-b10386b5-2d82-4f8c-bafa-23604959af4b.JPG" width="200" height="200" />
 *****
