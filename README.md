@@ -1,9 +1,5 @@
 # <center>저의 페이지에 오신걸 환영합니다!</center>![11](https://user-images.githubusercontent.com/112042668/190572205-505af8f8-5129-4f10-ab33-92593bcd7108.PNG)
 =======================
-
-<center>가운데</center>
-*****
-
 :name_badge: 이름 : 이동엽
 *****
 :house_with_garden: 사는 지역 : 창원
