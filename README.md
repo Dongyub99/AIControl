@@ -1,6 +1,5 @@
 *자기소개*
 =======================
-GitHub supports emoji! 
 :+1: :name_badge:
 *****
 :name_badge:
