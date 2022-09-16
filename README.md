@@ -24,6 +24,8 @@
 *****
 * ###### :rice: 좋아하는 음식 : 한식(딱히 가리는건 없는 듯..)
 *****
+* ###### :postbox: 이메일 : winner0138@naver.com
+*****
 ### :sunglasses: 이동엽하면 생각나는 것?!
 ![](https://img.shields.io/badge/%F0%9F%8E%AE-게임-lightgrey)
 ![](https://img.shields.io/badge/-%F0%9F%8E%A7%20음악-9cf)
