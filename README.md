@@ -24,3 +24,8 @@
 *****
 * ###### :rice: 좋아하는 음식 : 한식(딱히 가리는건 없는 듯..)
 *****
+### :sunglasses: 이동엽하면 생각나는 것?!
+![](https://img.shields.io/badge/%F0%9F%8E%AE-게임-lightgrey)
+![](https://img.shields.io/badge/-%F0%9F%8E%A7%20음악-9cf)
+![](https://img.shields.io/badge/-%F0%9F%92%A6%20땀-blue)
+![](https://img.shields.io/badge/-%F0%9F%90%BB%20%EA%B3%B0-critical)
