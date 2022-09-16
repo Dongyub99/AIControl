@@ -1,6 +1,8 @@
 # 동엽이의 페이지에 오신걸 환영합니다!
 ---
 <img src="https://user-images.githubusercontent.com/112042668/190572205-505af8f8-5129-4f10-ab33-92593bcd7108.PNG" width="600px" height="300px" title="11" alt="11"></img>
+---
+[:musical_note:Click](https://www.youtube.com/watch?v=dYIT_jeUBKg)
 
 ### :satisfied: 간단한 나의 소개를 할께!
 *****
@@ -24,7 +26,7 @@
 *****
 * ###### :rice: 좋아하는 음식 : 한식(딱히 가리는건 없는 듯..)
 *****
-* ###### :postbox: 이메일 : winner0138@naver.com
+* ###### :postbox: 이메일 : <winner0138@naver.com>
 *****
 ### :sunglasses: 이동엽하면 생각나는 것?!
 ![](https://img.shields.io/badge/%F0%9F%8E%AE-게임-lightgrey)
