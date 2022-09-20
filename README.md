@@ -33,3 +33,5 @@
 ![](https://img.shields.io/badge/-%F0%9F%8E%A7%20음악-9cf)
 ![](https://img.shields.io/badge/-%F0%9F%92%A6%20땀-blue)
 ![](https://img.shields.io/badge/-%F0%9F%90%BB%20%EA%B3%B0-critical)
+
+file:///C:/Users/Administrator/Desktop/Python3tut/Python%203%20-%20Quick%20Guide.html
